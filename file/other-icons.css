@@ -1,0 +1,451 @@
+@font-face {
+  font-family: axigen-other-icons;
+  src: url(../../../../../fonts/axigen-other-icons.eot);
+  src: url(../../../../../fonts/axigen-other-icons.eot?#iefix)
+      format("embedded-opentype"),
+    url(../../../../../fonts/axigen-other-icons.woff) format("woff"),
+    url(../../../../../fonts/axigen-other-icons.ttf) format("truetype"),
+    url(../../../../../fonts/axigen-other-icons.svg#tree-icons) format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+.x-axi-new-contact-north
+  .x-axi-details-button-container
+  .x-axi-delete-button
+  .x-btn-text:before,
+.x-axi-print-button .x-btn em:before,
+.x-axi-window-message .close-column a,
+.x-axi-window-message .close-column a:before,
+.x-btn .close-icon .x-btn-icon:before,
+.x-tab-strip .x-tab-strip-closable a.x-tab-strip-close:before {
+  font-family: axigen-other-icons !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+#filters .x-axi-grid-buttons-wrapper button:before,
+.attendee-accepted:before,
+.attendee-rejected:before,
+.attendee-tentative:before,
+.DK-icon:before,
+.fb-attendee-is-attendee div:before,
+.fb-attendee-is-organizer div:before,
+.menu-high-importance:before,
+.menu-low-importance:before,
+.menu-normal-importance:before,
+.x-axi-add-filter-window
+  .x-axi-fieldset-with-tools
+  .x-axi-fieldset-tools-container.x-axi-flat-button
+  .x-btn
+  button:before,
+.x-axi-add-filter-window
+  .x-axi-filters-options-td
+  .x-axi-last-button
+  button:before,
+.x-axi-addressbook-grid .contacticon .x-grid3-cell-inner:before,
+.x-axi-addressbook-grid .dlisticon .x-grid3-cell-inner:before,
+.x-axi-att-img-type .x-axi-attachment-doc:before,
+.x-axi-att-img-type .x-axi-attachment-eml:before,
+.x-axi-att-img-type .x-axi-attachment-html:before,
+.x-axi-att-img-type .x-axi-attachment-list:before,
+.x-axi-att-img-type .x-axi-attachment-mdb:before,
+.x-axi-att-img-type .x-axi-attachment-octet-stream:before,
+.x-axi-att-img-type .x-axi-attachment-pdf:before,
+.x-axi-att-img-type .x-axi-attachment-plain:before,
+.x-axi-att-img-type .x-axi-attachment-ppt:before,
+.x-axi-att-img-type .x-axi-attachment-rar:before,
+.x-axi-att-img-type .x-axi-attachment-xls:before,
+.x-axi-att-img-type .x-axi-attachment-zip:before,
+.x-axi-att-tooltip-info span:before,
+.x-axi-attachment-container-svg + xml .x-axi-show-thumb-icon:before,
+.x-axi-attachment-doc .x-axi-attachment-name:before,
+.x-axi-attachment-eml .x-axi-attachment-name:before,
+.x-axi-attachment-html .x-axi-attachment-name:before,
+.x-axi-attachment-list-container .border .x-axi-attachments-title:after,
+.x-axi-attachment-list .x-axi-attachment-image .x-axi-attachment-name:before,
+.x-axi-attachment-mdb .x-axi-attachment-name:before,
+.x-axi-attachment-octet-stream .x-axi-attachment-name:before,
+.x-axi-attachment-pdf .x-axi-attachment-name:before,
+.x-axi-attachment-plain .x-axi-attachment-name:before,
+.x-axi-attachment-ppt .x-axi-attachment-name:before,
+.x-axi-attachment-rar .x-axi-attachment-name:before,
+.x-axi-attachment-remove-button:before,
+.x-axi-attachment-xls .x-axi-attachment-name:before,
+.x-axi-attachment-zip .x-axi-attachment-name:before,
+.x-axi-blue-fieldset .x-grid3-cell-last .x-axi-blue-flat-button button:before,
+.x-axi-calendar-dialog-tooltip-attendee-status-accepted:before,
+.x-axi-calendar-dialog-tooltip-attendee-status-declined:before,
+.x-axi-calendar-dialog-tooltip-attendee-status-tentative:before,
+.x-axi-column-tree .x-tooltip:before,
+.x-axi-dextimg-span:before,
+.x-axi-fieldset-tools-container .x-btn button:before,
+.x-axi-filters-wizard-nav .step2 .left .x-axi-filters-nav:before,
+.x-axi-freebusy-add-attendees-container .x-axi-flat-button .x-btn button:before,
+.x-axi-freebusy-add-attendees
+  .x-axi-freebusy-attendees
+  .x-axi-flat-button
+  button:before,
+.x-axi-grid
+  .x-axi-grid-body
+  .x-grid3-header
+  .x-grid3-td-tooltip
+  .x-grid3-hd-tooltip:before,
+.x-axi-had-recurrency:after,
+.x-axi-has-recurrency:after,
+.x-axi-info-tooltip-panel div div:before,
+.x-axi-info-tooltip:before,
+.x-axi-itip-action-accept-tentative:before,
+.x-axi-itip-action-accept:before,
+.x-axi-itip-action-propose:before,
+.x-axi-itip-action-reject:before,
+.x-axi-lightbulb .ext-mb-text:before,
+.x-axi-list .contacticon .x-grid3-col-contacticon:before,
+.x-axi-list .dlisticon .x-grid3-col-contacticon:before,
+.x-axi-list .x-grid3-hd-contacticon:before,
+.x-axi-list .x-grid3-row td.flag-completed + td span.subject:after,
+.x-axi-list .x-grid3-row td.flag-followup + td span.subject:after,
+.x-axi-list .x-grid3-row td.has-attachment + td span.from:after,
+.x-axi-list .x-grid3-row td.importance-high + td span.subject:before,
+.x-axi-list .x-grid3-row td.importance-low + td span.subject:before,
+.x-axi-new-meeting-dialog
+  .x-axi-reminder-container
+  .x-axi-first-reminder-action-button
+  button:before,
+.x-axi-new-meeting-dialog
+  .x-axi-reminder-container
+  .x-axi-second-reminder-action-button
+  button:before,
+.x-axi-occurs.recurrence-blue-sign:after,
+.x-axi-principal-addbutton-container .x-panel-bwrap button:before,
+.x-axi-reminders-actions .x-axi-flat-button .x-btn-center .x-btn-text:before,
+.x-axi-reminders-actions .x-form-field-wrap:after,
+.x-axi-reminders-grid .x-axi-brown-combo .x-form-field-wrap:after,
+.x-axi-rrr-span:before,
+.x-axi-search-panel .x-axi-search-panel-close-button .x-btn-text:before,
+.x-axi-settings-antispam-tabpanel .x-axi-flat-button button:before,
+.x-axi-settings-antispam-tabpanel
+  .x-grid3-cell-last
+  .x-axi-flat-button
+  .x-axi-last-button
+  button:before,
+.x-axi-settings-window .google-button button:after,
+.x-axi-settings-window .hotmail-button button:after,
+.x-axi-settings-window .x-axi-fieldset-tools-container .x-btn:before,
+.x-axi-settings-window .x-axi-fieldset-tools-container .x-btn button:before,
+.x-axi-settings-window .x-axi-interface-leftcol .delete-button button:before,
+.x-axi-settings-window .x-axi-interface-leftcol .edit-button button:before,
+.x-axi-settings-window
+  .x-axi-remotemail-grid
+  .x-axi-grid-buttons-wrapper
+  button:before,
+.x-axi-settings-window .yahoo-button button:after,
+.x-axi-sharing-noaccess .x-axi-clear-label:before,
+.x-axi-sharring-permissions-grid .x-axi-group .x-grid3-col-user:before,
+.x-axi-sharring-permissions-grid .x-grid3-col-user:before,
+.x-axi-sharring-permissions-grid
+  .x-grid3-td-options
+  .x-axi-flat-button
+  .x-axi-last-button
+  button:before,
+.x-axi-subscribe-window .x-axi-lightbulb .ext-mb-text:before,
+.x-axi-tab-panel-header-tools-reminder:after,
+.x-axi-tasks-list .x-grid3-hd-taskstatus:before,
+.x-axi-tasks-list
+  .x-grid3-td-taskpriority.task-priority-high
+  + td
+  + td
+  + td
+  .x-grid3-col-tasksummary:after,
+.x-axi-tasks-list
+  .x-grid3-td-taskpriority.task-priority-low
+  + td
+  + td
+  + td
+  .x-grid3-col-tasksummary:after,
+.x-axi-tasks-list
+  .x-grid3-td-taskrecurrency.task-recurrency
+  + td
+  + td
+  .x-grid3-col-tasksummary:before,
+.x-axi-tasks-list .x-grid3-td-taskstatus .x-grid3-col-taskstatus:before,
+.x-axi-tasks-list
+  .x-grid3-td-tasktype.task-in
+  + td.x-grid3-td-tasksummary:after,
+.x-axi-tasks-list
+  .x-grid3-td-tasktype.task-out
+  + td.x-grid3-td-tasksummary:after,
+.x-axi-tips-infowindow .x-axi-attachment-default:before,
+.x-axi-tips-infowindow .x-axi-attachment-doc:before,
+.x-axi-tips-infowindow .x-axi-attachment-eml:before,
+.x-axi-tips-infowindow .x-axi-attachment-image:before,
+.x-axi-tips-infowindow .x-axi-attachment-mdb:before,
+.x-axi-tips-infowindow .x-axi-attachment-pdf:before,
+.x-axi-tips-infowindow .x-axi-attachment-plain:before,
+.x-axi-tips-infowindow .x-axi-attachment-ppt:before,
+.x-axi-tips-infowindow .x-axi-attachment-rar:before,
+.x-axi-tips-infowindow .x-axi-attachment-xls:before,
+.x-axi-tips-infowindow .x-axi-attachment-zip:before,
+.x-axi-toolbar
+  .x-toolbar
+  .x-axi-qsright
+  .x-axi-reset-search-button
+  .x-btn-text:before,
+.x-axi-tooltip-hd:before,
+.x-axi-tree-sidebar-menu-display a span:before,
+.x-axi-tree-sidebar-menu
+  .sidebar-settings-menu-wrapper.sidebar-display-menu-wrapper
+  .more-content
+  a
+  span:before,
+.x-axi-tree-sidebar-menu
+  .sidebar-settings-menu-wrapper.sidebar-display-menu-wrapper
+  .more-space
+  a
+  span:before,
+.x-axi-tree-sidebar-menu
+  .sidebar-settings-menu-wrapper.sidebar-display-menu-wrapper
+  .readingpane-bottom
+  a
+  span:before,
+.x-axi-tree-sidebar-menu
+  .sidebar-settings-menu-wrapper.sidebar-display-menu-wrapper
+  .readingpane-none
+  a
+  span:before,
+.x-axi-tree-sidebar-menu
+  .sidebar-settings-menu-wrapper.sidebar-display-menu-wrapper
+  .readingpane-right
+  a
+  span:before,
+.x-axi-upload-dd-container .x-axi-upload-dd-area .inline:before,
+.x-axi-window-grid
+  .x-axi-grid-body
+  .x-grid3-row
+  .x-axi-false
+  .x-grid3-cell-inner:before,
+.x-axi-window-grid
+  .x-axi-grid-body
+  .x-grid3-row
+  .x-axi-true
+  .x-grid3-cell-inner:before,
+.x-axi-window-grid .x-axi-grid-tips .x-grid3-col-tooltip:before,
+.x-axi-window .x-axi-lightbulb-label .x-panel-body:before,
+.x-grid3-cell .x-axi-flat-button .x-axi-last-button button:before,
+.x-menu.x-axi-flags-menu ul li:first-child + li a:before,
+.x-menu.x-axi-flags-menu ul li:first-child a:before,
+.x-menu.x-axi-flags-menu ul li:last-child a:before {
+  font-family: axigen-other-icons !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.x-axi-window-message .close-column a:before {
+  content: "\e000";
+}
+.x-axi-new-contact-north
+  .x-axi-details-button-container
+  .x-axi-delete-button
+  .x-btn-text:before,
+.x-tab-strip .x-tab-strip-closable a.x-tab-strip-close:before {
+  content: "\e000";
+  font-size: 16px;
+  display: block;
+  color: #757e80;
+}
+.x-tab-strip .x-tab-strip-closable a.x-tab-strip-close:hover:before {
+  color: #2a2d2f;
+}
+.x-axi-print-button .x-btn em:before {
+  content: "\e001";
+  color: #b7b6b6;
+  font-size: 32px;
+}
+.x-axi-attachment-mdb .x-axi-attachment-name:before,
+.x-axi-attachment-octet-stream .x-axi-attachment-name:before {
+  content: "\e012";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-image .x-axi-attachment-name:before {
+  content: "\e002";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-doc .x-axi-attachment-name:before {
+  content: "\e008";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-xls .x-axi-attachment-name:before {
+  content: "\e009";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-pdf .x-axi-attachment-name:before {
+  content: "\e010";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-rar .x-axi-attachment-name:before,
+.x-axi-attachment-zip .x-axi-attachment-name:before {
+  content: "\e011";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-plain .x-axi-attachment-name:before {
+  content: "\e013";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-html .x-axi-attachment-name:before {
+  content: "\e014";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-ppt .x-axi-attachment-name:before {
+  content: "\e015";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-eml .x-axi-attachment-name:before {
+  content: "\e016";
+  color: #5497f1;
+  font-size: 32px;
+}
+.x-axi-attachment-container-svg + xml .x-axi-show-thumb-icon:before,
+.x-axi-upload-dd-container .x-axi-upload-dd-area .inline:before {
+  position: relative;
+  top: 50%;
+  content: "\e002";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-mdb:before,
+.x-axi-att-img-type .x-axi-attachment-octet-stream:before {
+  position: relative;
+  top: 50%;
+  content: "\e012";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-list:before {
+  position: relative;
+  top: 50%;
+  content: "\e010";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-doc:before {
+  position: relative;
+  top: 50%;
+  content: "\e008";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-xls:before {
+  position: relative;
+  top: 50%;
+  content: "\e009";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-pdf:before {
+  position: relative;
+  top: 50%;
+  content: "\e010";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-rar:before,
+.x-axi-att-img-type .x-axi-attachment-zip:before {
+  position: relative;
+  top: 50%;
+  content: "\e011";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-plain:before {
+  position: relative;
+  top: 50%;
+  content: "\e013";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-html:before {
+  position: relative;
+  top: 50%;
+  content: "\e014";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-ppt:before {
+  position: relative;
+  top: 50%;
+  content: "\e015";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-att-img-type .x-axi-attachment-eml:before {
+  position: relative;
+  top: 50%;
+  content: "\e016";
+  color: #5497f1;
+  font-size: 64px;
+  opacity: 0.3;
+}
+.x-axi-tab-panel-header-tools-reminder:after {
+  position: absolute;
+  top: 10px;
+  left: -6px;
+  color: #b7b6b6;
+  font-size: 32px;
+  content: "\e026";
+}
+.x-axi-tab-panel-header-tools-reminder.with-reminders:after {
+  position: absolute;
+  top: 10px;
+  left: 3px;
+  color: #5497f1;
+  font-size: 32px;
+  content: "\e026";
+}
+.x-axi-normal-tab:before {
+  font-family: axigen-other-icons !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #b1c1c4;
+  vertical-align: middle;
+  line-height: 18px;
+  font-size: 32px;
+  padding-right: 3px;
+  display: inline-block;
+  padding-bottom: 3px;
+  margin-left: -7px;
+}
+

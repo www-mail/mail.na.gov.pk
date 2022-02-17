@@ -1,0 +1,46 @@
+.loader {
+  background: #4c8ea6;
+  background: -webkit-linear-gradient(
+    left,
+    #4c8ea6 10%,
+    rgba(76, 142, 166, 0) 60%
+  );
+  background: linear-gradient(90deg, #4c8ea6 10%, rgba(76, 142, 166, 0) 60%);
+}
+.logging {
+  background: #4c8ea6;
+  background: -webkit-linear-gradient(
+    left,
+    #4c8ea6 10%,
+    rgba(76, 142, 166, 0) 60%
+  ) !important;
+  background: linear-gradient(
+    90deg,
+    #4c8ea6 10%,
+    rgba(76, 142, 166, 0) 60%
+  ) !important;
+}
+.loader:before,
+.logging:before {
+  background: #4c8ea6;
+}
+.footnote a,
+.x-axi-changepass .x-axi-warning a,
+.x-axi-link .x-btn-center button:hover {
+  color: #4c8ea6;
+}
+input:focus {
+  border-color: #4c8ea6;
+}
+.x-axi-label .x-form-item-label.x-form-focus {
+  color: #4c8ea6 !important;
+}
+.x-axi-checkbox .x-form-check-checked .x-form-check {
+  background-color: #4c8ea6;
+  border: 1px solid #4c8ea6;
+}
+.x-axi-brown-combo .x-axi-combo-click,
+.x-trigger-wrap-focus {
+  border: 1px solid #4c8ea6 !important;
+}
+
